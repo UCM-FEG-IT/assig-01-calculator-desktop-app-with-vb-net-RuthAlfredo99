@@ -1,0 +1,5 @@
+C:\Users\Ruth Alfredo\source\repos\Calculadora1\Calculadora1\obj\Debug\Calculadora1.vbprojAssemblyReference.cache
+C:\Users\Ruth Alfredo\source\repos\Calculadora1\Calculadora1\obj\Debug\Calculadora1.Form1.resources
+C:\Users\Ruth Alfredo\source\repos\Calculadora1\Calculadora1\obj\Debug\Calculadora1.Resources.resources
+C:\Users\Ruth Alfredo\source\repos\Calculadora1\Calculadora1\obj\Debug\Calculadora1.vbproj.GenerateResource.cache
+C:\Users\Ruth Alfredo\source\repos\Calculadora1\Calculadora1\obj\Debug\Calculadora1.vbproj.CoreCompileInputs.cache
